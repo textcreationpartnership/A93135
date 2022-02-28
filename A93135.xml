@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. St. Johns speech, or argument in Parliament; shewing, whether a man may be a judge, and a witnesse in the same cause. By way of preface, I shall return a distinction between a doubtfull and a scrupulous conscience.</title>
+            <author>St. John, Oliver, 1598?-1673.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93135</idno>
+            <idno type="STC">Wing S328</idno>
+            <idno type="STC">Thomason E200_41</idno>
+            <idno type="STC">ESTC R12900</idno>
+            <idno type="EEBO-CITATION">99859365</idno>
+            <idno type="PROQUEST">99859365</idno>
+            <idno type="VID">157581</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93135)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157581)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E200[41])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. St. Johns speech, or argument in Parliament; shewing, whether a man may be a judge, and a witnesse in the same cause. By way of preface, I shall return a distinction between a doubtfull and a scrupulous conscience.</title>
+                  <author>St. John, Oliver, 1598?-1673.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare. 1641. [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "23 martij 164[illegible]".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Judrisprudence --  England --  Early works to 1800.</term>
+               <term>Speeches, addresses, etc., English --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157581:1"/>
+            <pb facs="tcp:157581:1" rendition="simple:additions"/>
+            <p>M<hi rend="sup">r.</hi> 
+               <hi>S<hi rend="sup">t.</hi> JOHNS</hi> SPEECH, OR ARGVMENT, IN PARLIAMENT; Shewing, whether a man may be a <hi>Judge,</hi> and a <hi>Witneſſe</hi> in the ſame CAUSE.</p>
+            <p>By way of Preface, I ſhall return a diſtinc<g ref="char:EOLhyphen"/>tion between a doubtfull and a ſcrupu<g ref="char:EOLhyphen"/>lous CONSCIENCE.</p>
+            <figure/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:157581:2"/>
+            <pb n="1" facs="tcp:157581:2"/>
+            <head>M<hi rend="sup">r</hi>. <hi>S<hi rend="sup">t</hi>. JOHNS</hi> ARGV<g ref="char:EOLhyphen"/>MENT IN PARLIAMENT, ſhewing whether a man may be a Iudge and a Witneſſe in the ſame Cauſe.</head>
+            <p>THe former aſſents to neither of the two opinions wherewith it is di<g ref="char:EOLhyphen"/>ſtracted, and by his means ſuſpends the action. The latter enclines to one of the two opinions, and go<g ref="char:EOLhyphen"/>eth on to the performance of the Action, but neither ſo cheerfully and roundly as it ought to do, but with ſome reluctancie in regard of that conſideration it ſtill retaineth of the con<g ref="char:EOLhyphen"/>trary opinion. As a man that hath a little ſtone or ſome gravell got into his ſhoes (w<hi rend="sup">ch</hi> is a ſcru<g ref="char:EOLhyphen"/>ple in the proper &amp; gra<g ref="char:cmbAbbrStroke">̄</g>atical ſence) maks a ſhift to get ho<g ref="char:cmbAbbrStroke">̄</g>e to his houſe, though not without ſom pain and moleſtation: theſe ſcruples if we can<g ref="char:EOLhyphen"/>not caſt them out, by reaſon and better infor<g ref="char:EOLhyphen"/>mation, <hi>Caſuiſts</hi> adviſe us to forget them, if it be poſſible, or how ever to paſſe them over, and fall to the Action, notwithſtanding their jog<g ref="char:EOLhyphen"/>ging
+<pb n="2" facs="tcp:157581:3"/> and interruption of us, in the cheerfull performance of the ſame, <hi>Ameſius de Conſc. li. 1. cap.</hi> 6. regularly and in ordinarie proceeding, one and the ſame man, in one and the ſame cauſe may be excepted againſt for being both Iudge and Witneſſe. For <hi>Deut.</hi> 17. 16. (which I take to be the ground whereon the Reſolution of this queſtion is to be erected) the Iudges in the gate, and the two witneſſes are not the ſame, but ſeverall and diſtinct perſons.</p>
+            <p>And <hi>Teſtatus</hi> his opinion that under the old Teſtament, one and the ſame man in one and the ſame Cauſe, might be a Iudge and a Wit<g ref="char:EOLhyphen"/>neſſe. As the two Elders were againſt <hi>Suſanna,</hi> 6. &amp; 34. verſe, is as Apochryphall as the Book it ſelf from whence it is quoted. For they are not the Iudges or Elders, but the Aſſemblie which pronounce the ſentence, ſo the 41. verſe. And we live under the new Teſtament where it is not permitted that a Man ſhall be a Iudge and a Witneſſe againſt me, ſaith the ſame <hi>Teſta<g ref="char:EOLhyphen"/>tus,</hi> in 23. <hi>Exod.</hi> Where he quotes for his opi<g ref="char:EOLhyphen"/>nion, <hi>Greg.</hi> 9. in his Decretals, <hi>Lib. 5. de verbo<g ref="char:EOLhyphen"/>rum, ſignific. cap. forus.</hi> And of this opinion the Civill Lawyers gives theſe reaſons.</p>
+            <p n="1">1. Firſt, becauſe this were for one man to uſurp two functions, which ought to be ſeveral and diſtinct, as that of a Iudge, and that of a Witneſſe, <hi>Jelinus, &amp; Auferius in Hut. Aemilius</hi> his tractate, <hi>de teſtibus, pag.</hi> 208.</p>
+            <p n="2">2. Becauſe by this means the ſame Agent might act and operate upon it ſelf, by becom<g ref="char:EOLhyphen"/>ing
+<pb n="3" facs="tcp:157581:3"/> both the Iudge impoſing, and the Witneſſe receiving the oath, to deliver the whole truth, which is not convenient, ſaith <hi>Albericus de Ro<g ref="char:EOLhyphen"/>ſate, Tract. Doctor Wol. 1. pag.</hi> 260. And <hi>Paw<g ref="char:EOLhyphen"/>francus ab Arrad. Tract. Doc. Vob. 4. pa.</hi> 157.</p>
+            <p n="3">3. Becauſe this were for a man to judge as God, ſay the Schoolmen, that is, out of his own private knowledge. Whereas, ſaith <hi>Caje<g ref="char:EOLhyphen"/>tan,</hi> Man ought not to be judge as God, but as God would have him to judge: that is <hi>ſecundum Allegata &amp; probata,</hi> and by a publike not a pri<g ref="char:EOLhyphen"/>vate knowledge. The Act of judging is a pub<g ref="char:EOLhyphen"/>like Act, and muſt ariſe from publique Cauſes, a publique perſon a publique power, a publique knowledge (from others and not from himſelf) and a publique will: and this cannot be when a man judgeth upon that, which he onely know<g ref="char:EOLhyphen"/>eth himſelf as a private perſon, <hi>Cajeſtan in 22. De. 4. 67. Act.</hi> 2. And it is the concluſion of all the Doctors, that a Iudge <hi>non poteſt teſteficare coram ſe,</hi> can give himſelf no convincing evi<g ref="char:EOLhyphen"/>dence. <hi>Alber. de Roſate in Tract. Doctor Vob. 1. pag. 260. Teſtatus</hi> gives a reaſon hereof, becauſe no man can do as God doth, that is, infuſe into the Priſoner at the Barre, <hi>Cogitationem memorem omnium factorum,</hi> A glimpſe or thought that ſhall cauſe all the Actions of his whole life to appeare before him, when he beholds the Iudge in the face, nor unto the hearers probations, cogitations, a clear and naked evidence of all the proofes in the Cauſe. This God onely can do of himſelf, other Iudges cannot without
+<pb n="4" facs="tcp:157581:4"/> the help of witneſſes. <hi>Tract. in Math. cap. 25. quaeſt.</hi> 334.</p>
+            <p n="4">4. That old obſervation of the Cannoniſts, and of St. <hi>Auguſtine,</hi> would fail if a man could be a Iudge and a Witneſſe: that a falſe witneſſe is injurious to all theſe three, to God, to the Iudge, to the partie, which would faile, if the Iudge himſelf might be a witneſſe.</p>
+            <p>Laſtly, as they exclude him that hath been a Counceller in the Cauſe, becauſe he is like to make good his own Plea, ſo do they conceive the Witneſſe to be excluded with much more reaſon, leſt he ſhould be too much wedded to his former diſpoſition.</p>
+            <p>
+               <hi>Theſe are the reaſons why Regularly and in ordinarie proceedings a Witneſſe may be excepted againſt from being in the ſame Cauſe.</hi>
+            </p>
+            <pb n="5" facs="tcp:157581:4"/>
+            <p>But I doe not find in any Lawyer or Caſuiſts, that a man is bound in Conſcience, to except a<g ref="char:EOLhyphen"/>gainſt himſelfe, for being a Judge in that cauſe, wherein hee had been produced in a Witneſſe; And I find rather the contrary opinion in good Authors. And that if both parties be content, and take no exception to it, a Witneſſe may bee a judge in the ſame Cauſe. It is the opinion of that great <hi>Juriſconſultum Felinus,</hi> but quoted by <hi>Hutor Aemilius, Tract: de Teſtibus, page</hi> 213.</p>
+            <p>And this without al queſtion to be made ther<g ref="char:EOLhyphen"/>of, if he have <hi>Conteſtes,</hi> that is, ſome Witneſſes more beſides himſelfe, that concurr in the Evi<g ref="char:EOLhyphen"/>dence; <hi>Hut. Emilius de teſtib: pag.</hi> 200.</p>
+            <p>Provided alwayes, that when he comes to giv<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Judgement: He muſt never ground his ſen<g ref="char:EOLhyphen"/>tence upon any private knowledge of his owne, but upon what is alleadged and proved before him, by the Teſtimonies and depoſitions of o<g ref="char:EOLhyphen"/>ther witneſſes, that is, as the Schoole-men ſpeake it, he muſt not ſentence out of his private, but out of his publique knowledge, acquired gene<g ref="char:EOLhyphen"/>rally from the Municipall lawes of that Coun<g ref="char:EOLhyphen"/>try wherein he lives; and more particularly from matters of Record, Writings and depoſiti<g ref="char:EOLhyphen"/>ons of Witneſſes: <hi>Aquni. 22. de queſt. 67. act.</hi> 2.</p>
+            <p>For the Jury of the voiſinage, I doe under fa<g ref="char:EOLhyphen"/>vour conceive them no Judges at all; they are to inquire out and to finde a fact; They are not to applie the generall Law unto a particular fact,
+<pb n="6" facs="tcp:157581:5"/> which properly is to judge and determine it. Whether the Lord <hi>Cobham</hi> was firſt produced as a Witneſſe, and afterwards ſommuned as a Peere in the Tryall of the Lord <hi>Gray,</hi> I know not, nor ever heard of it before this time; But I doe beleeve that upon the Rolls of 50. <hi>of Edw.</hi> 3. it will appeare, that <hi>Iohn Duke of Lancaſter,</hi> was Accuſer, Witneſſe, and Judge, in the Tryall of <hi>Alice Peirs,</hi> which many alter the Rules of the Law, in Parliamentary proceedings. 23. <hi>of March.</hi> 1641.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
